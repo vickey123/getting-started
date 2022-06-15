@@ -3,4 +3,7 @@
    tasks:
      - name: fun alway fun
        shell: echo "print my name"
+       
+     - name: adding one more task for testing
+       shell: echo "we are adding some more features"
 
