@@ -1,6 +1,6 @@
 ---
  - hosts: localhost
    tasks:
-     - name:
+     - name: fun alway fun
        shell: echo "print my name"
 
