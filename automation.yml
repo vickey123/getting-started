@@ -1,0 +1,6 @@
+---
+ - hosts: localhost
+   tasks:
+     - name:
+       shell: echo "print my name"
+
